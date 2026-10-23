@@ -1,0 +1,16 @@
+# 02_07_child-self-reliance-skill-tree
+
+孩子自立技能树 - 02_07_child-self-reliance-skill-tree（育儿/亲子/儿童发展与学能 Skill）
+
+## Description
+
+See `SKILL.md` for full skill description and usage instructions.
+
+## Structure
+
+- `SKILL.md` - Skill definition and instructions
+- `references/` - Reference documentation
+
+## License
+
+MIT
